@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="general_pdding">8dp</dimen>
+    <dimen name="big_text">30dp</dimen>
+    <dimen name="padding">5dp</dimen>
+    <dimen name="normal_text">15dp</dimen>
+</resources>
